@@ -20,4 +20,5 @@ TBD
 - Build a portforlio website
 
 ## Logs
-- ** 6/11/2024 **: Initialized repository.  
+- ** 6/11/2024 **: Initialized repository. 
+- ** 6/13/2024 **: pandas_exercise: https://github.com/guipsamora/pandas_exercises/tree/master 
