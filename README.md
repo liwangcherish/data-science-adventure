@@ -21,4 +21,5 @@ TBD
 
 ## Logs
 - ** 6/11/2024 **: Initialized repository. 
-- ** 6/13/2024 **: pandas_exercise: https://github.com/guipsamora/pandas_exercises/tree/master 
+- ** 6/13/2024 **: pandas_exercise: https://github.com/guipsamora/pandas_exercises/tree/master
+- ** 6/15/2024 **: combine all pandas exercise in one folder, keep learning and practising
